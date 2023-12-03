@@ -21,7 +21,11 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.anonymous.NFC_GG_expo",
+      "permissions": [
+        "NFC"
+      ]
     },
     "web": {
       "favicon": "./assets/favicon.png"
